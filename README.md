@@ -42,7 +42,7 @@
 
 📧 Email: ayeshaimrann.61@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/feed/
 
 💻 GitHub: https://github.com/AyeshaImran-61
 
