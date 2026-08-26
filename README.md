@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi! I am **AYESHA IMRAN**
-I am a **BS Artificial Intelligence** student at The University of Faisalabad, Pakistan, with an expected graduation year of 2027.
+Hi! I am **AYESHA IMRAN** a **BS Artificial Intelligence** student at The University of Faisalabad, Pakistan, with an expected graduation year of 2027.
 
 My professional focus is **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **Natural Language Processing**, **Generative AI**, **RAG systems**, **AI Agents**, and **AI-powered enterprise applications**.
 
